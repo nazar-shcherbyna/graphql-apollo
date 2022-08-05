@@ -1,0 +1,45 @@
+form {
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px auto 0;
+    width: 400px;
+    border: 2px solid #fff;
+}
+
+form input {
+    display: block;
+    height: 30px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #fff;
+    color: #000;
+}
+
+.btns {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btns button {
+    display: flex;
+    width: 120px;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #fff;
+    height: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.content {
+    margin: 20px auto;
+    width: 400px;
+}
+
+.content .item {
+    border: 2px solid #fff;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 0 0 10px;
+}
